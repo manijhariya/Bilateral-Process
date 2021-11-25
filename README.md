@@ -13,6 +13,6 @@ This project is a demostration of how processes works in different stages
 - Thread 3 Move queue files to processed files and updating status on db as 1
 
 ## DataBase Information
-Works on MongoDB
-ProcessDB MongoDB database
-ProcessCollection MongoDB collection 
+- Works on MongoDB
+- ProcessDB MongoDB database
+- ProcessCollection MongoDB collection 
